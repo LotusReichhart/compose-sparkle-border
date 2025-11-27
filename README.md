@@ -37,7 +37,7 @@ Add the dependency to your module's build.gradle.kts:
 
     dependencies {
         // Make sure your artifactId in build.gradle matches the repo name 'compose-sparkle-border'
-        implementation("com.github.LotusReichhart:compose-sparkle-border:1.0.0")
+        implementation("com.github.LotusReichhart:compose-sparkle-border:1.0.1")
     }
 
 
